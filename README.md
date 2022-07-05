@@ -1,5 +1,8 @@
 # Assam Flood Response
-
+<p align="center">
+<img src="https://github.com/CivicDataLab/2022-Assam-Flood-Response/blob/main/Assam_floods.jpg" width= "1000" height="400">
+<a href="https://www.thehindu.com/news/national/other-states/assam-flood-situation-critical-ndrf-personnel-from-bhubaneswar-rushed-to-barak-valley/article65548969.ece"> Image source - The Hindu <a>
+</p>
 Assam urgently needs our attention & support to combat the floods. We have curated a list of links to understand the on-ground situation better & to contribute funds to ongoing relief efforts. Please read and contribute in any way possible.
 
 ## Links to News reports:
