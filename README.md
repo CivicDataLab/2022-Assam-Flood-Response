@@ -1,5 +1,7 @@
 # Assam Flood Response
 
+Assam urgently needs our attention & support to combat the floods. We have curated a list of links to understand the on-ground situation better & to contribute funds to ongoing relief efforts. Please read and contribute in any way possible.
+
 ## Links to News reports:
 
 1.  [Central Water Commission](https://twitter.com/CWCOfficial_FF): Daily updates by CWC Official Flood Forecast.
