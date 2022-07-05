@@ -9,7 +9,7 @@
 5. [Mongabay](https://india.mongabay.com/2022/06/unprecedented-flood-cripples-assam-massive-loss-of-life-and-property-reported/): Summary Article on Floods 2022
 6. [Newslaundry](https://www.newslaundry.com/2022/06/27/explained-why-does-assam-flood-every-year-and-whats-the-state-doing-about-it): News Article: Explainer
 7. [NER-DRR](https://www.nerdrr.gov.in/flood.php): Near Real Time Flood Mapping
-8. [IDR Online])https://idronline.org/ground-up-stories/women-in-assams-flooded-areas-refuse-food-to-avoid-defecation/): News Article on problems related to Sanitation in flood affected areas.
+8. [IDR Online](https://idronline.org/ground-up-stories/women-in-assams-flooded-areas-refuse-food-to-avoid-defecation/): News Article on problems related to Sanitation in flood affected areas.
 
 ## Links to Aid agencies:
 
