@@ -35,4 +35,4 @@ While raising any issues, please follow the template provided for both bug repor
 * You can try running `npx next lint` for style unification
 
 ## License
-By contributing, you agree that your contributions will be licensed under its MIT License.
+By contributing, you agree that your contributions will be licensed under its Creative Commons Attribution 4.0 International License.
