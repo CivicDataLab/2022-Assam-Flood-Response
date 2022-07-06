@@ -11,17 +11,14 @@ We love your input! We want to make contributing to this project as easy and tra
 We use github to host code, to track issues and feature requests, as well as accept pull requests.
 
 ## We Use [Github Flow](https://guides.github.com/introduction/flow/index.html), So All Code Changes Happen Through Pull Requests
-Pull requests are the best way to propose changes to the codebase (we use [Github Flow](https://guides.github.com/introduction/flow/index.html)). We actively welcome your pull requests:
+Pull requests are the best way to propose changes to the repository (we use [Github Flow](https://guides.github.com/introduction/flow/index.html)). We actively welcome your pull requests:
 
-1. Fork the repo and create your branch from `main`.
-2. If you've added code that should be tested, add tests.
-3. If you've changed APIs, update the documentation.
-4. Ensure the test suite passes.
-5. Make sure your code lints.
-6. Issue that pull request!
+1. Fork the repo and create your branch from `main`
+2. Add or update resources listed in the repository
+4. Issue that pull request!
 
 ## Any contributions you make will be under the Creative Commons Attribution 4.0 International License
-In short, when you submit code changes, your submissions are understood to be under the same [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) that covers the project. Feel free to contact the maintainers if that's a concern.
+In short, when you submit changes to the repository, your submissions are understood to be under the same [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) that covers the project. Feel free to contact the maintainers if that's a concern.
 
 ## Report bugs using Github's [issues](https://github.com/CivicDataLab/2022-Assam-Flood-Response/issues)
 We use GitHub issues to track public bugs. Report a bug by [opening a new issue](https://github.com/CivicDataLab/2022-Assam-Flood-Response/issues); it's that easy!
