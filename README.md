@@ -34,13 +34,10 @@ Assam urgently needs our attention & support to combat the floods. We have curat
 3. [Robin Hood Army](https://robinhoodarmy.com): Freshly cooked food in flood affected areas where clean water for cooking is not available. They take donations only in kind not in cash.  **NOT Eligible for Tax Benefits**
 
 
-
+We at [CivicDataLab](https://civicdatalab.in/) have been working with the state of Assam since 2017 to improve timely access to government data. As of last year, we have been focusing our efforts to build a [holistic data ecosystem](https://www.mcgovern.org/foundation-awards-4-5m-including-new-accelerator-grants-to-advance-data-driven-climate-solutions/) to help better respond to floods and build a long term resilience in partnership with [Open Contracting Partnership](https://www.open-contracting.org/) and [Patrick J. McGovern Foundation](https://www.mcgovern.org/) with the guidance from [Assam State Disaster Management Authority](http://sdmassam.nic.in/) & [Finance Department](https://finance.assam.gov.in/).
 
 
 <footer>
-<p style="float:left; width: 20%;">
-We at CivicDataLab have been working with the state of Assam since 2017 to improve timely access to government data. As of last year, we have been focusing our efforts to build a holistic data ecosystem to help better respond to floods and build a long term resilience in partnership with Open Contracting Partnership and Patrick J. McGovern Foundation with the guidance from Assam State Disaster Management Authority & Finance Department.
-</p>
 <p style="float:left; width: 60%; text-align:center;">
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>
 </p>
