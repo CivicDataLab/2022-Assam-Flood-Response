@@ -7,12 +7,14 @@
 Assam urgently needs our attention & support to combat the floods. We have curated a list of links to understand the on-ground situation better & to contribute funds to ongoing relief efforts. Please read and contribute in any way possible.
 
 ## Links to News reports:
-
+### Government sources:
 1. [Flood reporting and information management system](http://sdmassam.nic.in/reports.html) - Assam State Disaster Management Authority
-2. [Assam: Death and despair after deadliest urban flood in India](https://www.bbc.com/news/av/world-asia-india-61996296) - BBC News
-3. [Assam flood: Death Toll Rises To 179, Number Of Affected People Declines To 18.35 Lakh](https://www.outlookindia.com/national/assam-flood-death-toll-rises-to-179-number-of-affected-people-declines-to-1835-lakh-news-206567) - Outlook
-4. [Unprecedented flood cripples Assam, massive loss of life and property reported](https://india.mongabay.com/2022/06/unprecedented-flood-cripples-assam-massive-loss-of-life-and-property-reported/) - Mongabay
-5. [Explained: Why does Assam flood every year and what’s the state doing about it?](https://www.newslaundry.com/2022/06/27/explained-why-does-assam-flood-every-year-and-whats-the-state-doing-about-it) - Newslaundy
+
+### Non-Government sources:
+1. [Assam: Death and despair after deadliest urban flood in India](https://www.bbc.com/news/av/world-asia-india-61996296) - BBC News
+2. [Assam flood: Death Toll Rises To 179, Number Of Affected People Declines To 18.35 Lakh](https://www.outlookindia.com/national/assam-flood-death-toll-rises-to-179-number-of-affected-people-declines-to-1835-lakh-news-206567) - Outlook
+3. [Unprecedented flood cripples Assam, massive loss of life and property reported](https://india.mongabay.com/2022/06/unprecedented-flood-cripples-assam-massive-loss-of-life-and-property-reported/) - Mongabay
+4. [Explained: Why does Assam flood every year and what’s the state doing about it?](https://www.newslaundry.com/2022/06/27/explained-why-does-assam-flood-every-year-and-whats-the-state-doing-about-it) - Newslaundry
 
 ## Links for Contributions:
 ### Government:
@@ -29,9 +31,7 @@ Assam urgently needs our attention & support to combat the floods. We have curat
 
 
 #### Eligible for Domestic donations:
-1. [Hemkunt Foundation](https://hemkuntfoundation.com/donate-now/): National Level NGO that provides relief aid during disasters in over 20 states of India. In Assam their efforts are based in Silchar.  **Eligible for Tax Benefits**
-2. [Humanitarian Aid International](https://hai-india.org/assam-flood-response-2022/): Focused on providing relief to displaced population and preparing situation report.  **Eligible for Tax Benefits**
-3. [Robin Hood Army](https://robinhoodarmy.com): Freshly cooked food in flood affected areas where clean water for cooking is not available. They take donations only in kind not in cash.  **NOT Eligible for Tax Benefits**
+1. [Humanitarian Aid International](https://hai-india.org/assam-flood-response-2022/): Focused on providing relief to displaced population and preparing situation report.  **Eligible for Tax Benefits**
 
 
 We at [CivicDataLab](https://civicdatalab.in/) have been working with the state of Assam since 2017 to improve timely access to government data. As of last year, we have been focusing our efforts to build a [holistic data ecosystem](https://www.mcgovern.org/foundation-awards-4-5m-including-new-accelerator-grants-to-advance-data-driven-climate-solutions/) to help better respond to floods and build a long term resilience in partnership with [Open Contracting Partnership](https://www.open-contracting.org/) and [Patrick J. McGovern Foundation](https://www.mcgovern.org/) with the guidance from [Assam State Disaster Management Authority](http://sdmassam.nic.in/) & [Finance Department](https://finance.assam.gov.in/).
