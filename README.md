@@ -32,3 +32,19 @@ Assam urgently needs our attention & support to combat the floods. We have curat
 1. [Hemkunt Foundation](https://hemkuntfoundation.com/donate-now/): National Level NGO that provides relief aid during disasters in over 20 states of India. In Assam their efforts are based in Silchar.  **Eligible for Tax Benefits**
 2. [Humanitarian Aid International](https://hai-india.org/assam-flood-response-2022/): Focused on providing relief to displaced population and preparing situation report.  **Eligible for Tax Benefits**
 3. [Robin Hood Army](https://robinhoodarmy.com): Freshly cooked food in flood affected areas where clean water for cooking is not available. They take donations only in kind not in cash.  **NOT Eligible for Tax Benefits**
+
+
+
+
+
+<footer>
+<p style="float:left; width: 20%;">
+We at CivicDataLab have been working with the state of Assam since 2017 to improve timely access to government data. As of last year, we have been focusing our efforts to build a holistic data ecosystem to help better respond to floods and build a long term resilience in partnership with Open Contracting Partnership and Patrick J. McGovern Foundation with the guidance from Assam State Disaster Management Authority & Finance Department.
+</p>
+<p style="float:left; width: 60%; text-align:center;">
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>
+</p>
+<p style="float:left; width: 20%;">
+Contact us at:<a href= "assam-floods@civicdatalab.in"> assam-floods@civicdatalab.in</a>
+  </p>
+</footer>
