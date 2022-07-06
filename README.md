@@ -1,6 +1,6 @@
 # Assam Flood Response
 <p align="center">
-<img src="https://github.com/CivicDataLab/2022-Assam-Flood-Response/blob/main/Assam_floods.jpg" width= "1000" height="400">
+<img src="Assam_floods.JPG" width= "1000" height="400">
 <a href="https://www.thehindu.com/news/national/other-states/assam-flood-situation-critical-ndrf-personnel-from-bhubaneswar-rushed-to-barak-valley/article65548969.ece"> Image source - The Hindu </a>
 </p>
 
