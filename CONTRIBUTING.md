@@ -24,7 +24,7 @@ Pull requests are the best way to propose changes to the codebase (we use [Githu
 In short, when you submit code changes, your submissions are understood to be under the same [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) that covers the project. Feel free to contact the maintainers if that's a concern.
 
 ## Report bugs using Github's [issues](https://github.com/CivicDataLab/2022-Assam-Flood-Response/issues)
-We use GitHub issues to track public bugs. Report a bug by [opening a new issue](); it's that easy!
+We use GitHub issues to track public bugs. Report a bug by [opening a new issue](https://github.com/CivicDataLab/2022-Assam-Flood-Response/issues); it's that easy!
 
 ## Bug Report or Feature Request
 While raising any issues, please follow the template provided for both bug reports and feature requests.
