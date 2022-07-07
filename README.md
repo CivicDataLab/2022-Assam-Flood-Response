@@ -33,9 +33,8 @@ Assam urgently needs our attention & support to combat the floods. We have curat
 #### Eligible for Domestic donations:
 1. [Humanitarian Aid International](https://hai-india.org/assam-flood-response-2022/): Focused on providing relief to displaced population and preparing situation report.  **Eligible for Tax Benefits**
 
-
-We at [CivicDataLab](https://civicdatalab.in/) have been working with the state of Assam since 2017 to improve timely access to government data. As of last year, we have been focusing our efforts to build a [holistic data ecosystem](https://www.mcgovern.org/foundation-awards-4-5m-including-new-accelerator-grants-to-advance-data-driven-climate-solutions/) to help better respond to floods and build a long term resilience in partnership with [Open Contracting Partnership](https://www.open-contracting.org/) and [Patrick J. McGovern Foundation](https://www.mcgovern.org/) with the guidance from [Assam State Disaster Management Authority](http://sdmassam.nic.in/) & [Finance Department](https://finance.assam.gov.in/).
-
+<br> </br>
+We at [CivicDataLab](https://civicdatalab.in/) have been working with the state of Assam since 2017 to improve timely access to government data. As of last year, we have been focusing our efforts to build a [holistic data ecosystem](https://www.open-contracting.org/2022/07/06/a-new-open-contracting-model-for-disaster-management-in-assam-india/) to help better respond to floods and build a long term resilience in partnership with [Open Contracting Partnership](https://www.open-contracting.org/) and [Patrick J. McGovern Foundation](https://www.mcgovern.org/) with the guidance from [Assam State Disaster Management Authority](http://sdmassam.nic.in/) & [Finance Department](https://finance.assam.gov.in/).
 
 <footer>
 <p>
