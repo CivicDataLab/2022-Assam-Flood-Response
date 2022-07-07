@@ -38,10 +38,10 @@ We at [CivicDataLab](https://civicdatalab.in/) have been working with the state 
 
 
 <footer>
-<p style="float:left; width: 60%; text-align:center;">
+<p>
 <a rel="license" href="https://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International</a>
 </p>
-<p style="float:left; width: 20%;"><br/>
-Contact us at:<a href= "assam-floods@civicdatalab.in"> assam-floods@civicdatalab.in</a> <br/>
+<p>
+  Contact us at:<a href= "assam-floods@civicdatalab.in"> assam-floods@civicdatalab.in</a>
   </p>
 </footer>
